@@ -22,6 +22,4 @@ class MobileBankApiTestV4 {
         ;
     }
 
-    private String matchesJsonSchemaInClasspath(String s) {
-    }
 }
